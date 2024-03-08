@@ -60,6 +60,10 @@ PeerReview is a project which aims to decentralize the process of peer reviewing
 ## Demo
 [Checkout the Demo on Youtube!](https://www.youtube.com/watch?v=qx_ap_xu-Ic)
 
+## Smart Contract deployed on Binance Smart Chain
+PeerReview deployed to: 0x8B6987169C74672b16A2669311B6b67C826Afb9c
+https://testnet.bscscan.com/address/0x8B6987169C74672b16A2669311B6b67C826Afb9c
+
 
 ### Built With
 
