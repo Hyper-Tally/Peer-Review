@@ -58,7 +58,7 @@ PeerReview is a project which aims to decentralize the process of peer reviewing
 6. Completely compatible with Metamask!
 
 ## Demo
-[Checkout the Demo on Youtube!](https://www.youtube.com/watch?v=VTRrkXzapfw)
+[Checkout the Demo on Youtube!](https://www.youtube.com/watch?v=qx_ap_xu-Ic)
 
 
 ### Built With
