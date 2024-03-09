@@ -137,6 +137,10 @@ cd backend
 npm start
 ```
 
+## Smart Contract deployed on Binance Smart Chain
+
+PeerReview deployed to: 0x8B6987169C74672b16A2669311B6b67C826Afb9c
+https://testnet.bscscan.com/address/0x8B6987169C74672b16A2669311B6b67C826Afb9c
 
 <!-- USAGE EXAMPLES -->
 ## Usage
