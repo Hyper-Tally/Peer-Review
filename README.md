@@ -1,7 +1,7 @@
 <!-- PROJECT LOGO -->
 <br />
 <p align="center">
-  <a href="https://github.com/Hyper-Tally/Peer-Review-chainlink">
+  <a href="https://github.com/Hyper-Tally/Peer-Review">
     <img src="./frontend/src/assets/logo.png" alt="Logo" width="80">
   </a>
 
@@ -10,14 +10,14 @@
   <p align="center">
     A Decentralized Academic Publishing System Using Smart Contracts
     <br />
-    <a href="https://github.com/Hyper-Tally/Peer-Review-chainlink"><strong>Explore the docs »</strong></a>
+    <a href="https://github.com/Hyper-Tally/Peer-Review"><strong>Explore the docs »</strong></a>
     <br />
     <br />
-    <a href="https://github.com/Hyper-Tally/Peer-Review-chainlink">View Demo</a>
+    <a href="https://github.com/Hyper-Tally/Peer-Review">View Demo</a>
     ·
-    <a href="https://github.com/Hyper-Tally/Peer-Review-chainlink/issues">Report Bug</a>
+    <a href="https://github.com/Hyper-Tally/Peer-Review/issues">Report Bug</a>
     ·
-    <a href="https://github.com/Hyper-Tally/Peer-Review-chainlink/issues">Request Feature</a>
+    <a href="https://github.com/Hyper-Tally/Peer-Review/issues">Request Feature</a>
   </p>
 </p>
 
@@ -58,11 +58,7 @@ PeerReview is a project which aims to decentralize the process of peer reviewing
 6. Completely compatible with Metamask!
 
 ## Demo
-[Checkout the Demo on Youtube!](https://www.youtube.com/watch?v=qx_ap_xu-Ic)
-
-## Smart Contract deployed on Binance Smart Chain
-PeerReview deployed to: 0x8B6987169C74672b16A2669311B6b67C826Afb9c
-https://testnet.bscscan.com/address/0x8B6987169C74672b16A2669311B6b67C826Afb9c
+[Checkout the Demo on Youtube!](https://www.youtube.com/watch?v=VTRrkXzapfw)
 
 
 ### Built With
@@ -103,7 +99,7 @@ Make sure a MongoDB database is running either on your local network, or on a re
  
 1. Clone the repo
 ```sh
-git clone https://github.com/Hyper-Tally/Peer-Review-chainlink.git
+git clone https://github.com/Hyper-Tally/Peer-Review.git
 ```
 2. Install the NPM dependencies
 ```sh
@@ -179,7 +175,7 @@ You can view your trust rating, and more details about your profile on the profi
 <!-- ROADMAP -->
 ## Roadmap
 
-See the [open issues](https://github.com/Hyper-Tally/Peer-Review-chainlink/issues) for a list of proposed features (and known issues).
+See the [open issues](https://github.com/Hyper-Tally/Peer-Review/issues) for a list of proposed features (and known issues).
 
 
 
